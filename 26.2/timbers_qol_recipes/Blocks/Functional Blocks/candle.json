@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:string",
+    "minecraft:honeycomb"
+  ],
+  "result": {
+    "id": "minecraft:candle",
+    "count": 4
+  }
+}

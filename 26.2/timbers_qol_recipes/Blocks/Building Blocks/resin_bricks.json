@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": "minecraft:resin_brick"
+  },
+  "result": {
+    "id": "minecraft:resin_bricks",
+    "count": 2
+  }
+}
